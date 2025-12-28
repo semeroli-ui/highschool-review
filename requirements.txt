@@ -1,0 +1,7 @@
+# 强制升级至已知安全版本
+streamlit>=1.41.0
+pandas>=2.2.0
+firebase-admin>=6.5.0
+# 增强网络与底层加密安全性
+requests>=2.32.0
+cryptography>=42.0.0
